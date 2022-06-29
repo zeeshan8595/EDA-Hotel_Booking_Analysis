@@ -10,3 +10,6 @@ To reduce the risks, the hotels can impose constraints on cancellation and can i
 performance.The critical analysis of the data helps to mitigate the effect of cancellation on sales
 
 this project is only obout Exploratory Data Analysis
+
+
+this is written at the local system and then pushed 
