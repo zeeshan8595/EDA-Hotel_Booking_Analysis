@@ -17,3 +17,6 @@ this is written at the local system and then pushed
 this line is added from the github
 
 this we are changing from local repo
+
+again we are changing it to show conflict
+
