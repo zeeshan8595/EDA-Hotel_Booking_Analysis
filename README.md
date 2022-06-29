@@ -8,3 +8,5 @@ There is always be a provision for customers to revoke the reservation, this pri
 customers or the hotels have to bear the cost of vacant rooms.
 To reduce the risks, the hotels can impose constraints on cancellation and can introduce the overbooking strategies but both these policies can hamper the hotel 
 performance.The critical analysis of the data helps to mitigate the effect of cancellation on sales
+
+this project is only obout Exploratory Data Analysis
